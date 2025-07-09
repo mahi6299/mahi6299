@@ -68,11 +68,4 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahikabarnwal&show_icons=true&theme=react" alt="Mahika's GitHub stats" />
-</p>
-
----
-
-⭐ *Thanks for visiting! Feel free to connect or collaborate!* 🚀
 
