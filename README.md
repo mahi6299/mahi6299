@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mahika Barnwal</h1>
-<h3 align="center">A passionate tech enthusiast & aspiring software engineer from BIT Sindri</h3>
+<h3 align="center">A passionate tech enthusiast & full-stack developer from India</h3>
 
-- 🎓 Pre-final year student in Information Technology at BIT Sindri  
 - 🌱 Currently learning **Full Stack Development & Advanced DSA**  
 - 🤝 Looking to collaborate on **open source, web apps, and AI-based projects**  
-- 💬 Ask me about **web development, DSA, hackathons, and college tech clubs**  
 - 📫 Reach me at: **mahibarnwal1234@gmail.com**  
 - ⚡ Fun fact: *“I love turning ideas into real-world projects!”*
 
