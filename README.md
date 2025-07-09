@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Full Stack Development & Advanced DSA**  
 - 🤝 Looking to collaborate on **open source, web apps, and AI-based projects**  
 - 💬 Ask me about **web development, DSA, hackathons, and college tech clubs**  
-- 📫 Reach me at: **mahikabarnwal.work@gmail.com**  
+- 📫 Reach me at: **mahibarnwal1234@gmail.com**  
 - ⚡ Fun fact: *“I love turning ideas into real-world projects!”*
 
 ---
